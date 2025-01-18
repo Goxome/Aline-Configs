@@ -3,7 +3,7 @@
   "forced":1,
   "btntype":1,
   "btnurl":"https://{apk_url}",
-  "versioncode":3690,
+  "versioncode":3689,
   "updatetitle":"New Update",
   "updatemessage":"1. Fixed 1 \n2. Fixed 2\n3. Fixed 3"
 }
