@@ -1,6 +1,6 @@
 {
   "uptodate":1,
-  "forced":0,
+  "forced":1,
   "btntype":1,
   "btnurl":"https://{apk_url}",
   "versioncode":3690,
